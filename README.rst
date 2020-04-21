@@ -429,6 +429,9 @@ Works Made With rumps
 `RitsWifi - fang2hou
 <https://github.com/fang2hou/RitsWifi/>`_
 
+`SalahBar - Wadieabbas
+<https://salahbar.com/>`_
+
 `safety-bar - pyupio
 <https://github.com/pyupio/safety-bar/>`_
 
